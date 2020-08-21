@@ -2,21 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2020/08/19/First-Blog-Test/</loc>
+    <loc>http://dopsie.github.io/2020/08/19/First-Blog-Test/</loc>
     
     <lastmod>2020-08-21</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/404.html</loc>
+    <loc>http://dopsie.github.io/tags/index.html</loc>
+    
+    <lastmod>2020-08-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://dopsie.github.io/repository/index.html</loc>
+    
+    <lastmod>2020-08-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://dopsie.github.io/links/index.html</loc>
+    
+    <lastmod>2020-08-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://dopsie.github.io/categories/index.html</loc>
+    
+    <lastmod>2020-08-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://dopsie.github.io/books/index.html</loc>
+    
+    <lastmod>2020-08-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://dopsie.github.io/about/index.html</loc>
+    
+    <lastmod>2020-08-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://dopsie.github.io/404.html</loc>
+    
+    <lastmod>2020-08-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://dopsie.github.io/404.html</loc>
     
     <lastmod>2020-08-19</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/08/19/hello-world/</loc>
+    <loc>http://dopsie.github.io/2020/08/19/hello-world/</loc>
     
     <lastmod>2020-08-19</lastmod>
     
@@ -24,12 +73,19 @@
   
 
   <url>
-    <loc>http://yoursite.com/</loc>
+    <loc>http://dopsie.github.io/</loc>
     <lastmod>2020-08-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>http://dopsie.github.io/tags/markdown/</loc>
+    <lastmod>2020-08-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 
   
